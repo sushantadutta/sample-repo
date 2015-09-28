@@ -1,0 +1,1 @@
+I'm sample repository created for testing purpose.
